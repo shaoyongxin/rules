@@ -577,7 +577,7 @@
     }
   },
   "log": {
-    "disabled": false,
+    "disabled": true,
     "level": "info",
     "timestamp": true
   }
