@@ -45,11 +45,11 @@
       },
       {
         "rule_set": "geosite-fakeipfilter",
-        "server": "public"
+        "server": "local"
       },
       {
         "rule_set": "geosite-cn",
-        "server": "public"
+        "server": "local"
       },
       {
         "rule_set": "geosite-!cn",
